@@ -1,0 +1,26 @@
+body {
+    background-color: #dbccac;
+    color: #12192a;
+    margin: 0;
+    
+  }
+  
+  h1 {
+    /* background-color: #C8BBB1; */
+    background-color: #253255;
+    color:  #b4975a;
+    margin: 0;
+    margin-bottom: 1em;
+    padding: 0.25em;
+    text-align: center;
+    text-shadow: 1px 1px 3px #554825;
+    width: 100%;
+  }
+
+  input{
+    border-radius: 15px;
+  }
+
+  .container-xxl{
+    text-align: center;
+  }
